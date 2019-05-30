@@ -1,0 +1,6 @@
+.DS_Store
+.build
+JavaScript/.vscode
+JavaScript/dist
+JavaScript/node_modules
+Ktx.xcodeproj/xcuserdata
